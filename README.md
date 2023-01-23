@@ -5,8 +5,8 @@
   </div>
   <div align="center">
     <a href="https://www.linkedin.com/in/eliam-vazquez-parra-ab647a227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/eliam-vazquez-parra-ab647a227/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge"/></a>
   </div>
-  
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/iIbgY9P1m0woM/giphy.gif" width="300"/>
   </div>
