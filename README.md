@@ -9,7 +9,7 @@
 </div>
 <br/>
 <h1 align="center">
-  Hi, Welcome to my Repo
+  Hi, Welcome to my Profile
   <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="40px"/>
 </h1>
 
