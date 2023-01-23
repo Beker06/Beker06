@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py,haskell" />
   </a>
 </p>
 <p align="center">
@@ -56,4 +56,6 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en" alt="beker06" />   </p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beker06&hide_border=true&theme=dark&" alt="beker06" /></p>
-
+<div id="header" align="left">
+    <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="100"/>
+  </div>
