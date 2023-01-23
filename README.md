@@ -47,7 +47,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express, redux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,redux" />
   </a>
 </p>
 <p align="left">
@@ -62,12 +62,12 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap, materialui" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,figma,raspberrypi,md, regex" />
+    <img src="https://skillicons.dev/icons?i=git,docker,figma,raspberrypi,md,regex" />
   </a>
 </p>
 <p align="left">
@@ -77,7 +77,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel, heroku" />
+    <img src="https://skillicons.dev/icons?i=vercel,heroku" />
   </a>
 </p>
 <p align="left">
