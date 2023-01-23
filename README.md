@@ -3,6 +3,9 @@
     <img src="https://media.giphy.com/media/kwcRp24Wz4lZm/giphy.gif" width="50"/>
     <img src="https://komarev.com/ghpvc/?username=beker06&label=Profile%20views&color=0e75b6&style=flat" alt="beker06" />
   </div>
+  <div id="badges" align="center">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+</div>
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/iIbgY9P1m0woM/giphy.gif" width="300"/>
   </div>
