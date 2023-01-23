@@ -3,7 +3,10 @@
     <img src="https://media.giphy.com/media/kwcRp24Wz4lZm/giphy.gif" width="50"/>
     <img src="https://komarev.com/ghpvc/?username=beker06&label=Profile%20views&color=0e75b6&style=flat" alt="beker06" />
   </div>
-  
+  <h1 align="center">
+  Hi, Welcome to my Profile
+  <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="40px"/>
+</h1>
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/620dKKAnmTWbTl2abd/giphy.gif" width="300"/>
   </div>
@@ -13,16 +16,12 @@
 <a href="https://instagram.com/eliamvp" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge"/></a>
   </div>
 <br/>
+<hr width="100%"></hr>
 
-<h1 align="center">
-  Hi, Welcome to my Profile
-  <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="40px"/>
-</h1>
 <h2 align="left">
   <img src="https://media.giphy.com/media/ix8dIWbEovToc/giphy.gif" width="40px"/>
   About Me
 </h2>
-<br/>
 
 - 🖐 Grettings From Mexico
 
