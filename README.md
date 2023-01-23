@@ -29,8 +29,6 @@
 - 📚 Currently studying Software engineering at ITT 
 
 - 💻 Working as software developer
-
----
 <hr width="100%"></hr>
 <h2 align="left">
   <img src="https://media.giphy.com/media/IgLEFhGAt3giA9XMHk/giphy.gif" width="30px"/>
