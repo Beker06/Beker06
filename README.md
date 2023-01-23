@@ -3,10 +3,11 @@
     <img src="https://media.giphy.com/media/kwcRp24Wz4lZm/giphy.gif" width="50"/>
     <img src="https://komarev.com/ghpvc/?username=beker06&label=Profile%20views&color=0e75b6&style=flat" alt="beker06" />
   </div>
-    #### Let's get in touch
-
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=%2523F7DF1E)](https://www.linkedin.com/in/jordiespinoza/) 
-  [![Email](https://img.shields.io/badge/email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=%2523F7DF1E)](mailto:jordi8101@gmail.com)
+  <div align="center">
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=%2523F7DF1E)](https://www.linkedin.com/in/eliam-vazquez-parra-ab647a227/) 
+  [![Email](https://img.shields.io/badge/email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=%2523F7DF1E)](mailto:bosc790@gmail.com)
+  </div>
+  
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/iIbgY9P1m0woM/giphy.gif" width="300"/>
   </div>
