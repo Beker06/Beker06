@@ -42,7 +42,27 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,godot" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram,twitter" />
   </a>
 </p>
 
@@ -56,6 +76,6 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en" alt="beker06" />   </p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beker06&hide_border=true&theme=dark&" alt="beker06" /></p>
-<div id="header" align="left">
+<div id="header" align="right">
     <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="100"/>
   </div>
