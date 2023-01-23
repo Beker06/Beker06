@@ -52,7 +52,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
   </a>
 </p>
 <p align="left">
@@ -60,14 +60,15 @@
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase" />
   </a>
 </p>
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=git,docker,figma,raspberrypi,md,regex" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,figma,raspberrypi,md,regex" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse" />
   </a>
 </p>
 <p align="left">
