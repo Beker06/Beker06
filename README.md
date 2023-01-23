@@ -24,9 +24,11 @@
 </h2>
 <br/>
 
-- 📚 Currently studying Software Development at ITT 
+- 🖐 Grettings From Mexico
 
-- 💻 Part-time software developer
+- 📚 Currently studying Software engineering at ITT 
+
+- 💻 Working as software developer
 
 ---
 <hr width="100%"></hr>
@@ -44,7 +46,7 @@
   My Stats
 </h2>
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"   alt="beker06" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beker06&theme=dark&hide_border=true&show_icons=true&card_width=10&locale=en&layout=compact"   alt="beker06" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en" alt="beker06" />   </p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beker06&hide_border=true&theme=dark&" alt="beker06" /></p>
