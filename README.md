@@ -4,8 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=beker06&label=Profile%20views&color=0e75b6&style=flat" alt="beker06" />
   </div>
   <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=%2523F7DF1E)](https://www.linkedin.com/in/eliam-vazquez-parra-ab647a227/) 
-  [![Email](https://img.shields.io/badge/email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=%2523F7DF1E)](mailto:bosc790@gmail.com)
+    <a href="https://www.linkedin.com/in/eliam-vazquez-parra-ab647a227/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   </div>
   
   <div id="header" align="center">
