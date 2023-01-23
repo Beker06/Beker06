@@ -6,9 +6,10 @@
     <img src="https://media.giphy.com/media/iIbgY9P1m0woM/giphy.gif" width="300"/>
   </div>
 </div>
-<h1>
+<br/>
+<h1 align="center">
   Hi, Welcome to my Repo
-  <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="40px"/>
 </h1>
 
 
