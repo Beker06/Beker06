@@ -23,7 +23,13 @@
   About Me
 </h2>
 <br/>
-<p>Si</p>
+### :man_technologist: About Me :
+
+- 📚 Currently studying Software Development at ITT 
+
+- 💻 Part-time software developer
+
+---
 <hr width="100%"></hr>
 <h2 align="left">
   <img src="https://media.giphy.com/media/IgLEFhGAt3giA9XMHk/giphy.gif" width="30px"/>
