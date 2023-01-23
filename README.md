@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/MBlSpxW9dqsiV8Vg4y/giphy.gif" width="100"/>
 </div>
 
+<hr width="100%"></hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beker06&label=Profile%20views&color=0e75b6&style=flat" alt="beker06" /> </p>
 
 - 📫 How to reach me: **bosc790@gmail.com**
