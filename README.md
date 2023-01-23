@@ -30,8 +30,7 @@
 
 <hr width="100%"></hr
 <br/>
-<h2 align="center">My Stats🔥</h2>
-<br/>
+<h2 align="center" border="none">My Stats🔥</h2>
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"   alt="beker06" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en" alt="beker06" />   </p>
