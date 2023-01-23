@@ -23,7 +23,6 @@
   About Me
 </h2>
 <br/>
-### :man_technologist: About Me :
 
 - 📚 Currently studying Software Development at ITT 
 
