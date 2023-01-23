@@ -47,6 +47,11 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse" />
   </a>
 </p>
@@ -57,7 +62,12 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,ps,xd, figma" />
+    <img src="https://skillicons.dev/icons?i=git,figma" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps,xd" />
   </a>
 </p>
 <p align="left">
@@ -67,7 +77,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram,twitter" />
+    <img src="https://skillicons.dev/icons?i=discord,linkedin,github,instagram,twitter" />
   </a>
 </p>
 
