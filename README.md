@@ -1,7 +1,7 @@
 <div>
-  <div id="header" style="display: flex;" align="left">
+  <div id="header" align="left">
     <img src="https://media.giphy.com/media/kwcRp24Wz4lZm/giphy.gif" width="50"/>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=beker06&label=Profile%20views&color=0e75b6&style=flat" alt="beker06" /> </p>
+    <img src="https://komarev.com/ghpvc/?username=beker06&label=Profile%20views&color=0e75b6&style=flat" alt="beker06" />
   </div>
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/iIbgY9P1m0woM/giphy.gif" width="300"/>
