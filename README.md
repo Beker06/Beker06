@@ -1,5 +1,5 @@
 <div>
-  <div id="header" align="left">
+  <div id="header" style="display: flex;" align="left">
     <img src="https://media.giphy.com/media/kwcRp24Wz4lZm/giphy.gif" width="50"/>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=beker06&label=Profile%20views&color=0e75b6&style=flat" alt="beker06" /> </p>
   </div>
@@ -12,8 +12,6 @@
   Hi, Welcome to my Repo
   <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="40px"/>
 </h1>
-
-<hr width="100%"></hr>
 
 
 
