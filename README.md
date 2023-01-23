@@ -1,6 +1,6 @@
 
   <div id="header" align="left">
-    <img src="https://media.giphy.com/media/kwcRp24Wz4lZm/giphy.gif" width="50"/>
+    <img src="https://media.giphy.com/media/620dKKAnmTWbTl2abd/giphy.gif" width="50"/>
     <img src="https://komarev.com/ghpvc/?username=beker06&label=Profile%20views&color=0e75b6&style=flat" alt="beker06" />
   </div>
   <div align="center">
