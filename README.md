@@ -23,7 +23,7 @@
   About Me
 </h2>
 
-- 🖐 Grettings From Mexico
+- 🖐 Greetings From Mexico
 
 - 📚 Currently studying Software engineering at ITT 
 
@@ -47,7 +47,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express, redux" />
   </a>
 </p>
 <p align="left">
@@ -62,7 +62,12 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap, materialui" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,figma,raspberrypi,md, regex" />
   </a>
 </p>
 <p align="left">
@@ -72,12 +77,17 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel, heroku" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,godot" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,linkedin,github,instagram,twitter" />
+    <img src="https://skillicons.dev/icons?i=discord,linkedin,github,instagram,twitter,stackoverflow" />
   </a>
 </p>
 
