@@ -97,9 +97,9 @@
   <img src="https://media.giphy.com/media/12S4Jf0IZo34Sk/giphy.gif" width="40px"/>
   My Stats
 </h2>
-<div>
+<div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beker06&theme=dark&hide_border=true&show_icons=true&card_width=10&locale=en&layout=compact"   alt="beker06" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en" alt="beker06" />   </p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en" alt="beker06" />   </p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beker06&hide_border=true&theme=dark&" alt="beker06" /></p>
 <div id="header" align="right">
