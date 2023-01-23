@@ -6,7 +6,7 @@
   <div align="center">
     <a href="https://www.linkedin.com/in/eliam-vazquez-parra-ab647a227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="mailto:bosc790@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/eliam-vazquez-parra-ab647a227/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+<a href="https://instagram.com/eliamvp" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge"/></a>
   
   </div>
   <div id="header" align="center">
@@ -19,16 +19,6 @@
   Hi, Welcome to my Profile
   <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="40px"/>
 </h1>
-
-
-
-- 📫 How to reach me: **bosc790@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/eliam-vazquez-parra-ab647a227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliam vazquez parra" height="30" width="40" /></a>
-<a href="https://instagram.com/eliamvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eliamvp" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
