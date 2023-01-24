@@ -28,7 +28,7 @@
 - 📚 Currently studying Software engineering at ITT 
 
 - 💻 Working as software developer
-<hr width="100%"></hr>
+
 <h2 align="left">
   <img src="https://media.giphy.com/media/IgLEFhGAt3giA9XMHk/giphy.gif" width="30px"/>
   Languages and Tools
@@ -41,7 +41,6 @@
   </a>
 </p>
 
-<hr width="100%" ></hr>
 <h2 align="left">
   <img src="https://media.giphy.com/media/12S4Jf0IZo34Sk/giphy.gif" width="40px"/>
   My Stats
