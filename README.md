@@ -37,10 +37,10 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py,haskell" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py,haskell,react,nextjs,nodejs,express,redux,tailwind,bootstrap,materialui,mysql,sqlite,mongodb,firebase,git,docker,figma,raspberrypi,md,regex,vscode,visualstudio,eclipse,ai,ps,xd,vercel,heroku,unity,godot,discord,linkedin,github,instagram,twitter,stackoverflow" />
   </a>
 </p>
-<p align="left">
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs" />
   </a>
@@ -90,7 +90,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,linkedin,github,instagram,twitter,stackoverflow" />
   </a>
-</p>
+</p> -->
 
 <hr width="100%" ></hr>
 <h2 align="left">
