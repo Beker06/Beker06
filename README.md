@@ -5,7 +5,7 @@
   </div>
   <h1 align="center">
   Hi, Welcome to my Profile
-  <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="40px"/>
 </h1>
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/620dKKAnmTWbTl2abd/giphy.gif" width="300"/>
