@@ -28,7 +28,7 @@
 - 📚 Currently studying Software engineering at ITT 
 
 - 💻 Working as software developer
-
+<br/>
 <h2 align="left">
   <img src="https://media.giphy.com/media/IgLEFhGAt3giA9XMHk/giphy.gif" width="30px"/>
   Languages and Tools
@@ -40,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,py,haskell,react,nextjs,nodejs,express,redux,tailwind,bootstrap,materialui,mysql,sqlite,mongodb,firebase,git,docker,figma,raspberrypi,md,regex,vscode,visualstudio,eclipse,ai,ps,xd,vercel,heroku,unity,godot,discord,linkedin,github,instagram,twitter,stackoverflow" />
   </a>
 </p>
-
+<br/>
 <h2 align="left">
   <img src="https://media.giphy.com/media/12S4Jf0IZo34Sk/giphy.gif" width="40px"/>
   My Stats
@@ -50,7 +50,7 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en" alt="beker06" />   </p>
 </div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beker06&hide_border=true&theme=dark&" alt="beker06" /></p>
-  
+  <br/>
 <h2>
   <img src="https://media.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif" width="35px"/>
   Github Trophies
