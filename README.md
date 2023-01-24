@@ -53,7 +53,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beker06&hide_border=true&theme=dark&" alt="beker06" /></p>
   
 <h2>
-  <img src="https://media.giphy.com/media/lnsaLM9tsRjSpgdUSi/giphy.gif" width="40px"/>
+  <img src="Github Trophies" width="35px"/>
   Github Trophies
 </h2>
 
