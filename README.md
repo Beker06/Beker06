@@ -17,7 +17,6 @@
   </div>
 <br/>
 <hr width="100%"></hr>
-
 <h2 align="left">
   <img src="https://media.giphy.com/media/ix8dIWbEovToc/giphy.gif" width="40px"/>
   About Me
@@ -28,7 +27,9 @@
 - 📚 Currently studying Software engineering at ITT 
 
 - 💻 Working as software developer
+- 
 <br/>
+
 <h2 align="left">
   <img src="https://media.giphy.com/media/IgLEFhGAt3giA9XMHk/giphy.gif" width="30px"/>
   Languages and Tools
@@ -50,11 +51,13 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en" alt="beker06" />   </p>
 </div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beker06&hide_border=true&theme=dark&" alt="beker06" /></p>
+
 <h2>
   <img src="https://media.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif" width="35px"/>
   Github Trophies
 </h2>
-## ![](https://github-profile-trophy.vercel.app/?username=Beker06&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
+### ![](https://github-profile-trophy.vercel.app/?username=Beker06&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 <div id="header" align="right">
     <img src="https://media.giphy.com/media/TF6ZSOZWtXVBOeMIc6/giphy.gif" width="100"/>
