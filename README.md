@@ -1,5 +1,5 @@
 
-  <div id="header" align="left">
+  <div id="header" align="left" position="center">
     <img src="https://media.giphy.com/media/kwcRp24Wz4lZm/giphy.gif" width="50"/>
     <img src="https://komarev.com/ghpvc/?username=beker06&label=Profile%20views&color=0e75b6&style=flat" alt="beker06" />
   </div>
@@ -35,7 +35,7 @@
 </h2>
 <br/>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,py,haskell,react,nextjs,nodejs,express,redux,tailwind,bootstrap,materialui,mysql,sqlite,mongodb,firebase,git,docker,figma,raspberrypi,md,regex,vscode,visualstudio,eclipse,ai,ps,xd,vercel,heroku,unity,godot,discord,linkedin,github,instagram,twitter,stackoverflow" />
   </a>
