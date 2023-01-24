@@ -52,11 +52,10 @@
 </div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beker06&hide_border=true&theme=dark&" alt="beker06" /></p>
 <h2 align="left">
-  <img src="https://media.giphy.com/media/12S4Jf0IZo34Sk/giphy.gif" width="40px"/>
-  Github Trophies
+  <img src="https://media.giphy.com/media/lnsaLM9tsRjSpgdUSi/giphy.gif" width="40px"/>
 </h2>
 
-## 🏆 Github Trophies
+## Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Beker06&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 <div id="header" align="right">
