@@ -55,7 +55,10 @@
   <img src="https://media.giphy.com/media/12S4Jf0IZo34Sk/giphy.gif" width="40px"/>
   Github Trophies
 </h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🏆 Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=Beker06&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
 <div id="header" align="right">
     <img src="https://media.giphy.com/media/TF6ZSOZWtXVBOeMIc6/giphy.gif" width="100"/>
   </div>
