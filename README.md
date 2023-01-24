@@ -50,7 +50,6 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beker06&theme=dark&hide_border=true&show_icons=true&locale=en" alt="beker06" />   </p>
 </div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beker06&hide_border=true&theme=dark&" alt="beker06" /></p>
-  <br/>
 <h2>
   <img src="https://media.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif" width="35px"/>
   Github Trophies
