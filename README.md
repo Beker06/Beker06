@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/TvNa6lOfIXu7uUGQ4F/giphy.gif" width="40px"/>
 </h1>
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="250"/>
+    <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="200"/>
   </div>
   <div align="center">
     <a href="https://www.linkedin.com/in/eliam-vazquez-parra-ab647a227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
@@ -103,5 +103,5 @@
 </div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beker06&hide_border=true&theme=dark&" alt="beker06" /></p>
 <div id="header" align="right">
-    <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/TF6ZSOZWtXVBOeMIc6/giphy.gif" width="100"/>
   </div>
