@@ -38,7 +38,7 @@
 <p align="center">
         <a href="https://skillicons.dev">
             <img
-                src="https://skillicons.dev/icons?i=html,css,js, cs, py, haskell, react, nextjs, astro, nodejs, express, redux, tailwind, bootstrap"
+                src="https://skillicons.dev/icons?i=html,css,js,cs,py,haskell,react,nextjs,astro,nodejs,express,redux,tailwind,bootstrap"
             />
         </a>
     </p>
