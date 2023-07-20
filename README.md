@@ -38,8 +38,8 @@
 <p align="center">
         <a href="https://skillicons.dev">
             <img
-                src="https://skillicons.dev/icons?i=html,css,js, cs, py, haskell, react, nextjs, astro, nodejs, express, redux, tailwind, bootstrap, materialui,mysql,sqlite,mongodb,firebase,git,docker,figma,raspberrypi,md,regex,vscode,visualstudio,eclipse,ai,ps,xd,vercel,heroku,unity,godot,discord,linkedin,github,instagram,twitter,stackoverflow
-                  "/>
+                src="https://skillicons.dev/icons?i=html,css,js, cs, py, haskell, react, nextjs, astro, nodejs, express, redux, tailwind, bootstrap"
+            />
         </a>
     </p>
 <br/>
