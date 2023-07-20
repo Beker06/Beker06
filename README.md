@@ -36,11 +36,12 @@
 </h2>
 <br/>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=git,cs,py,php,js,html,css,tailwind,laravel,django,mysql,postgres />
-  </a>
-</p>
+        <a href="https://skillicons.dev">
+            <img
+                src="https://skillicons.dev/icons?i=git,cs,py,php,js,html,css,tailwind,laravel,django,mysql,postgres"
+            />
+        </a>
+    </p>
 <br/>
 <h2 align="left">
   <img src="https://media.giphy.com/media/12S4Jf0IZo34Sk/giphy.gif" width="40px"/>
