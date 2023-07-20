@@ -35,11 +35,10 @@
   Languages and Tools
 </h2>
 <br/>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=html, css />
+      src="https://skillicons.dev/icons?i=git,cs,py,php,js,html,css,tailwind,laravel,django,mysql,postgres />
   </a>
 </p>
 <br/>
