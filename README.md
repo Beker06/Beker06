@@ -35,15 +35,15 @@
   Some of my work
 </h2>
 
-- <a href='https://beker06-airvnv-clone.vercel.app/' target='_blank'>Airbnb Clone</a>
+- <a href='https://beker06-airvnv-clone.vercel.app/' target="_blank">Airbnb Clone</a>
 
-- <a href='https://electron-phi.vercel.app/' target='_blank'>Dinamic periodic table</a>
+- <a href='https://electron-phi.vercel.app/' target="_blank">Dinamic Periodic Table</a>
 
-- <a href='https://beker06-tesla-landing-clone.vercel.app/' target='_blank'>Tesla Landing Page Clone</a>
+- <a href='https://beker06-tesla-landing-clone.vercel.app/' target="_blank">Tesla Landing Page Clone</a>
 
-- <a href='https://softkitect-web.vercel.app/' target='_blank'>Softkitect Landing Page</a>
+- <a href='https://softkitect-web.vercel.app/' target="_blank">Softkitect Landing Page</a>
 
-- <a href='https://blog-terapia-ra.vercel.app/' target='_blank'>Research about Emotional Terapy with AR</a>
+- <a href='https://blog-terapia-ra.vercel.app/' target="_blank">Research about Emotional Terapy with AR</a>
 
 <br/>
 <h2 align="left">
