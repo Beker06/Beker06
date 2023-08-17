@@ -32,6 +32,18 @@
 
 <h2 align="left">
   <img src="https://media.giphy.com/media/IgLEFhGAt3giA9XMHk/giphy.gif" width="30px"/>
+  Some of my work
+</h2>
+
+- <a href='https://beker06-airvnv-clone.vercel.app/'>Airbnb Clone</a>
+
+- <a href='https://electron-phi.vercel.app/'>Dinamic periodic table</a>
+
+
+
+<br/>
+<h2 align="left">
+  <img src="https://media.giphy.com/media/IgLEFhGAt3giA9XMHk/giphy.gif" width="30px"/>
   Languages and Tools
 </h2>
 <br/>
