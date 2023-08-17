@@ -43,9 +43,7 @@
 
 - <a href='https://softkitect-web.vercel.app/' target='_blank'>Softkitect Landing Page</a>
 
-- <a href='' target='_blank'></a>
-
-
+- <a href='https://blog-terapia-ra.vercel.app/' target='_blank'>Research about Emotional Terapy with AR</a>
 
 <br/>
 <h2 align="left">
