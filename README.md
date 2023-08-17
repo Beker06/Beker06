@@ -31,7 +31,7 @@
 <br/>
 
 <h2 align="left">
-  <img src="https://media.giphy.com/media/IgLEFhGAt3giA9XMHk/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="30px"/>
   Some of my work
 </h2>
 
