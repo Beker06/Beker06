@@ -37,7 +37,7 @@
 
 - <a href='https://beker06-airvnv-clone.vercel.app/' target="_blank">Airbnb Clone</a>
 
-- <a href='https://beker06-buttons.vercel.app/' target="_blank">Componets Designs</a>
+- <a href='https://beker06-buttons.vercel.app/' target="_blank">Components Designs</a>
 
 - <a href='https://electron-phi.vercel.app/' target="_blank">Dinamic Periodic Table</a>
 
